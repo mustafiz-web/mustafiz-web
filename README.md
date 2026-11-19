@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mustafizur-web">
-    <img src="https://img.shields.io/badge/GitHub-mustafizur--web-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/mustafiz-web">
+    <img src="https://img.shields.io/badge/GitHub-mustafiz--web-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
